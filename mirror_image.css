@@ -1,0 +1,26 @@
+/*
+* @Author: gerthwang
+* @Date:   2022-10-25 16:53:53
+* @Last Modified by:   gerthwang
+* @Last Modified time: 2022-10-26 14:48:05
+*/
+
+
+video {
+	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+}
+
+#div1 {
+	display: flex;
+	flex-direction: row
+}
+
+#div2 {
+	display: flex;
+	flex-direction: row
+}
+
+
+
